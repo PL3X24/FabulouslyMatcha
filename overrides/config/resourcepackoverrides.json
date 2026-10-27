@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "pack_overrides": {
+    "file/HyperPunchy-v2.5+.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/MFRP_1_12_8_26_3.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "punchy:punchy": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "continuity:glass_pane_culling_fix": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "continuity:default": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/SodiumTranslations.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/Chat-Reporting-Helper.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/Drigo-3D-Lanterns-x-Punchy.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/Torches-Reimagined-v1.10.zip": {
+      "required": true,
+      "default_position": "TOP"
+    },
+    "file/FA-Player-v1.1.zip": {
+      "required": true,
+      "default_position": "TOP"
+    }
+  }
+}
