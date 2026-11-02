@@ -1,11 +1,11 @@
 {
   "schema_version": 2,
   "pack_overrides": {
-    "file/HyperPunchy-v2.5+.zip": {
+    "file/HyperPunchy-v2.8.zip": {
       "required": true,
       "default_position": "TOP"
     },
-    "file/MFRP_1_12_8_26_3.zip": {
+    "file/MFRP_1_12_9_26_3.zip": {
       "required": true,
       "default_position": "TOP"
     },
